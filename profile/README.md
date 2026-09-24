@@ -5,6 +5,7 @@ We are generously supported by the Alan Lennox Boyd Foundation.
 
 ## Events
 
+- "Dry-run" workshops through October 2026 at RBG Kew 
 - Training course and workshop, 30th November - 4th December 2026, Forest Research Institute of Malaysia, Kuala Lumpur.
 
 ## Course preparation
