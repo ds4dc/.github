@@ -18,7 +18,7 @@ We are generously supported by the Alan Lennox Boyd Foundation.
 ## People
 
 - Nicky Nicolson (RBG Kew) - [@nickynicolson (github)](https://github.com/nickynicolson) / n.nicolson@kew.org
-- Steven Bachman (RBG Kew) - [@stevenpbachman (github)](https://github.com/stevenpbachman) / s.bachman@kew.org
+- Steven Bachman (RBG Kew) - [@stevenpbachman (github)](https://github.com/stevenpbachman) [google scholar](https://scholar.google.com/citations?user=xx6KDsUAAAAJ&hl=en) / s.bachman@kew.org
 - Sue Han Lee (Swinburne University) - [google scholar](https://scholar.google.com/citations?user=D38UZF8AAAAJ&hl=en) / [Swinburne staff profile](https://www.swinburne.edu.my/staff/lee-sue-han/)
 - Yee Wen Low (Singapore Botanic Garden) - [google scholar](https://scholar.google.com/citations?user=oPwP0OgAAAAJ&hl=en)
 - Sam Yen Yen (Forest Research Institute of Malaysia) - [google scholar](https://scholar.google.com/citations?user=j0l_XIgAAAAJ&hl=en)
