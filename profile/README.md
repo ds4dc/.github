@@ -12,7 +12,7 @@ We are generously supported by the Alan Lennox Boyd Foundation.
 
 - Installation of R and Open Refine (instructions todo)
 - Register for a github account - https://github.com/signup
-- Introduce yourself on the discussion board (todo)
+- Introduce yourself on the [welcome thread](https://github.com/orgs/ds4dc/discussions/2) on the discussion board
 - Select some sample specimen data from your own research or institution. This could be a list of specimens for citing in a specimen based project or a particular family or genus from your herbarium. This data can be saved in any spreadsheet compatible format (e.g. .xlsx, .xls, .csv, .tsv, .ods). 
    
 ## People
